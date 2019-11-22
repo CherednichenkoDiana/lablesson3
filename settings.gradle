@@ -1,0 +1,2 @@
+include ':IntentApp'
+rootProject.name='lablesson3'
